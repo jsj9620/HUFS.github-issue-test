@@ -1,9 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
 #include<iostream>
 
-//Ã¼½º Äý ¹èÄ¡ ¹®Á¦
-//ÄýÀÌ ¿òÁ÷ÀÏ ¼ö ÀÖ´Â ÀÚ¸®¿¡´Â ¹èÄ¡ÇÏ¸é ¾ÈµÊ
+//ì²´ìŠ¤ í€¸ ë°°ì¹˜ ë¬¸ì œ
+//í€¸ì´ ì›€ì§ì¼ ìˆ˜ ìžˆëŠ” ìžë¦¬ì—ëŠ” ë°°ì¹˜í•˜ë©´ ì•ˆë¨
 
 using namespace std;
 
