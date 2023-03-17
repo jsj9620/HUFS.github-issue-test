@@ -6,15 +6,17 @@
 //퀸이 움직일 수 있는 자리에는 배치하면 안됨
 
 using namespace std;
+
 int n = 5, A[10][10];
+
 void print() {
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
 			printf("%3d", A[i][j]);
 		}
-		printf("n");
+		printf("\n");
 	}
-	printf("n");
+	printf("\n");
 }
 
 void q(int w, int h) {
