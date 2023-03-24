@@ -4,3 +4,6 @@ Are you use Progreamming Language?
 
 Do you have tips about it? Can you give them to me?
 do you have leran about tip give for me?
+
+
+// some comments
